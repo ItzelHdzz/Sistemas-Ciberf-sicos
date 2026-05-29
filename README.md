@@ -1,23 +1,21 @@
-# 🍓 Cyber-Physical Strawberry Harvesting System
+# Cyber-Physical Strawberry Harvesting System
 
 An autonomous harvesting system that integrates collaborative robotics, 
 computer vision, and real-time monitoring for strawberry detection, 
 counting, and pick-and-place operations.
 
-![Banner](link-a-tu-foto-o-gif-aqui)
+![Banner](https://github.com/ItzelHdzz/Sistemas-Ciberf-sicos/blob/d080a8d46ac5f12949cd8f1586957fee9961b998/Screenshot%20from%202026-05-29%2014-48-06.png)
 
 ---
 
-## 📌 About
+### About
 
 This project was developed in collaboration with **CAETEC (Campo Agropecuario 
 Experimental del Tec de Monterrey)**. It combines a UR3e cobot, YOLO-based 
 fruit detection, and a real-time monitoring architecture to automate 
 strawberry harvesting in a controlled agricultural environment.
 
----
-
-## ⚙️ How it works
+### How it works
 
 1. A camera captures the scene and **YOLO detects and counts strawberries** in real time
 2. The system evaluates fruit position and ripeness
@@ -26,9 +24,8 @@ strawberry harvesting in a controlled agricultural environment.
 5. All data is sent via **MQTT** and visualized in a **Node-RED dashboard**
 
 ---
----
 
-## 🛠️ Tools & Technologies
+###  Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -45,7 +42,7 @@ strawberry harvesting in a controlled agricultural environment.
 
 ---
 
-## 🌱 Context
+### Context
 
 Developed at **CAETEC**, the experimental agricultural campus of Tecnológico 
 de Monterrey in Querétaro, México. The project addresses real challenges in 
@@ -54,9 +51,10 @@ cyber-physical systems.
 
 ---
 
-## 👩‍💻 Author
+### Author
 
-**Ana Itzel Hernández García**  
-B.S. Robotics and Intelligent Systems — Tecnológico de Monterrey  
-[LinkedIn](https://www.linkedin.com/in/ana-itzel-hernández-garcía-irs) · 
-[GitHub](https://github.com/ItzelHdzz)
+**Ana Itzel Hernández García** 
+**Montserrat Olguín Tinoco**
+**Elías Camacho Ponce de León**
+
+  
